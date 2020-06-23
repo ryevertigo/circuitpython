@@ -382,6 +382,7 @@ jobs:
         - "espressif_saola_1_wroom"
         - "espressif_saola_1_wrover"
         - "unexpectedmaker_feathers2"
+        - "lilygo_ttgo_xy_esp32_s_woor"
 
     steps:
     - name: Set up Python 3.8
